@@ -1,6 +1,9 @@
 .App {
   text-align: center;
 }
+.aroma {
+  background-color: hsl(220, 24%, 90%);
+}
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +38,93 @@
   to {
     transform: rotate(360deg);
   }
+}
+header {
+ width: 100%; 
+ height: 10vh;
+ background-color: rgb(173, 127, 219) ;
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ justify-content: space-between;
+}
+nav{
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+}
+main{
+  height: 80vh;
+
+}
+footer{
+  background-color: rgb(173, 127, 219);
+  height: 10vh;
+}
+.Registration-form{
+
+width: 50%;
+margin: auto;
+margin-top: 20%;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+height: 50%;
+}
+.login-form{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+}
+
+.user-buttons{
+  display: flex;
+  justify-content: space-around;
+}
+.content-box {
+  height: 80vh;
+}
+.redact-mode-active{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+}
+.video-item{
+  width: 23%;
+  height: 30vh;
+  max-height: 30vh;
+  cursor: pointer;
+  border: 1px solid gray;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: hsl(220, 24%, 90%);
+}
+.video-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.profile-link{
+  width: 50%;
+}
+
+@media screen and (min-width : 200px) and (max-width :  600px) {
+.video-container{
+  justify-content: space-around;
+}
+ .video-item{
+   width: 80%;
+ }
+ 
+ header h1{
+   font-size: 20px;
+ }
+ nav {
+   width: 60%;
+ }
+
+
 }

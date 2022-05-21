@@ -1,0 +1,188 @@
+{
+  "users": [
+    {
+      "email": "kavosm325@gmail.com",
+      "userName": "Somanimus",
+      "front-back-end": 0,
+      "authorized": 0,
+      "id": 1
+    },
+    {
+      "email": "Simon@gmail.com",
+      "password": "$2a$10$030/I8jDa0rbD3/ovKSkV.uovDTHxiGWFp3yMrDWs5PDRKr2Q3XhW",
+      "nickname": "Simon",
+      "section": "back-end",
+      "id": 2
+    },
+    {
+      "email": "Kamina@gmail.com",
+      "password": "$2a$10$OPwbE2kHgJ6ER3LaGIuawubGkrkMGeuRMkHGTjYnNzNZwbUdSAgDG",
+      "nickname": "Kamina the Brotha",
+      "section": "fron-end",
+      "id": 3
+    },
+    {
+      "nickname": "Agabal the Scribe",
+      "age": "1563",
+      "email": "Agabal@gmail.com",
+      "section": "back-end",
+      "password": "$2a$10$Su5zxwj.INh.5TobTrkQY.B4MLDTR6JGkD3WkzQFLz6LYXGVHL3Me",
+      "authorized": 0,
+      "userType": "student",
+      "group": "Not Assigned",
+      "id": 4
+    },
+    {
+      "email": "Test2@gmail.com",
+      "password": "$2a$10$Bb5hfUwzmQMESriED8C9jOMLKDXi/xjHewUowbYvfQqUJMfZyUbn.",
+      "nickname": "Test 2",
+      "section": "front-end",
+      "gender": "male",
+      "age": "15",
+      "authorized": 0,
+      "userType": "student",
+      "group": "Not Assigned",
+      "id": 5
+    },
+    {
+      "email": "Test$@gmail.com",
+      "password": "$2a$10$3xrJuq9crGBlaacaPBMuLel9EqfPkXrQUN.i22BvmPRMPIANMfpAS",
+      "nickname": "Dollar Test",
+      "section": "front-end",
+      "gender": "male",
+      "age": "45",
+      "authorized": 0,
+      "userType": "student",
+      "group": "Not Assigned",
+      "id": 6
+    },
+    {
+      "email": "Test5@gmail.com",
+      "password": "$2a$10$wZ6O48Uk29sezDIo.xIuOOkOzp/wsQGFjBBPBtSjRpK5j0TacgGly",
+      "nickname": "Test",
+      "section": "",
+      "gender": "",
+      "age": "",
+      "authorized": 0,
+      "userType": "student",
+      "group": "Not Assigned",
+      "id": 7
+    },
+    {
+      "nickname": "Karmelia",
+      "age": "3405",
+      "email": "Kamelia@gmail.com",
+      "section": "back-end",
+      "password": "$2a$10$j9MTMkVundLFajkRTUc1beGFiYqkoua/L8sY5DowDyGNuz2XSF92C",
+      "id": 8
+    },
+    {
+      "nickname": "Sasha The Darkest",
+      "age": "23",
+      "email": "Sasha@gmail.com",
+      "gender": "female",
+      "section": "back-end",
+      "password": "$2a$10$ijnDvBgZZ71eyRCb.5H3gO9xaQfvIMAqaNbosl1A8L6eoBif10g3C",
+      "id": 9
+    },
+    {
+      "email": "Limansk@gmail.com",
+      "password": "$2a$10$Xm0jj52NtiFjSBEV2zLveeCKg/WGrSUpbTN8w5g0lI1bo9qchW2G6",
+      "nickname": "Limansk",
+      "section": "front-end",
+      "gender": "male",
+      "age": "25",
+      "authorized": 0,
+      "userType": "student",
+      "group": "Not Assigned",
+      "id": 10
+    },
+    {
+      "email": "Admin@gmail.com",
+      "password": "$2a$10$k70aSsFj7WPRxgNC/PIVYOBoGSXfzhVft2ah0aPoBIgcsIKjS6eau",
+      "nickname": "admin",
+      "section": "front-end",
+      "gender": "male",
+      "age": "999999",
+      "userType": "admin",
+      "group": "Not Assigned",
+      "id": 11
+    },
+    {
+      "name": "Victor",
+      "surname": "Vaugn",
+      "email": "Victor.Vaugn@gmail.com",
+      "password": "$2a$10$ze5sDXZn91lh46HrpAX6ou/DXVfEJ.SIaagHq8LACxCnUqN9g6L6C",
+      "userName": "Victor",
+      "userSurname": "Vaughn",
+      "phoneNumber": "+996556666666",
+      "userType": "teacher",
+      "id": 12
+    },
+    {
+      "email": "ALLCAPPS@gmail.com",
+      "password": "$2a$10$S8uTpgYYJDWcjNCZrVs.8uZFwcD5UnAkHV1XXTTgRnilBfx5.eQwG",
+      "userName": "MF DOOM",
+      "userSurname": "Dumile",
+      "phoneNumber": "+23467845",
+      "userType": "teacher",
+      "id": 13
+    },
+    {
+      "email": "Miyamoto.Musashi@gmail.com",
+      "password": "$2a$10$3uZ4JZBfO5ud/K1YWVtPh.V.ULx2QjlErQlDvZhl3Edu.cd28lP1e",
+      "userName": "Miyamoto",
+      "userSurname": "Musashi",
+      "phoneNumber": "",
+      "userType": "teacher",
+      "id": 14
+    },
+    {
+      "email": "Smile@gmail.com",
+      "password": "$2a$10$RIhigSaDHEsjLfUpsuj1/.EZGmP90WE9Ii8viXxcoQoyHYm60FSdC",
+      "nickname": "Smile",
+      "section": "front-end",
+      "gender": "male",
+      "age": "25",
+      "userType": "student",
+      "group": "Not Assigned",
+      "id": 15
+    },
+    {
+      "email": "Ivan.Porov@gmail.com",
+      "password": "$2a$10$htFf2YUenhZR4buZTMObK.7cloBRMokoySap/yWeRQhE1BChZ4mOG",
+      "userName": "Ivan",
+      "userSurname": "Porov",
+      "phoneNumber": "+996550908661",
+      "userType": "teacher",
+      "id": 16
+    }
+  ],
+  "groups": [
+    {
+      "groupName": "PN18",
+      "creationDate": "15/2/2022",
+      "groupSubject": "front-end",
+      "Teacher": "Victor",
+      "students": {},
+      "id": 1
+    },
+    {
+      "groupName": "PN21",
+      "creationDate": "15/2/2022",
+      "groupSubject": "back-end",
+      "Teacher": "MF DOOM",
+      "students": {},
+      "id": 2
+    },
+    {
+      "groupName": "PN18",
+      "creationDate": "15/2/2022",
+      "groupSubject": "back-end",
+      "Teacher": "Victor",
+      "students": {},
+      "id": 3
+    }
+  ],
+  "study-material": []
+}
